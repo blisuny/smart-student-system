@@ -1,0 +1,478 @@
+[
+  {
+    "id": 1,
+    "name": "ADLİ BİLİMLER VE CEZA ADALETİ KULÜBÜ",
+    "category": "Student Club",
+    "description": "Adli Bilimler ve Ceza Adaleti Kulübü is a student club at Üsküdar University.",
+    "activities": [
+      "Student club meetings",
+      "Workshops and seminars",
+      "Social and academic events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323583_adli-bilimler-ve-ceza-adaleti-kulubu.png&w=256&q=75",
+    "keywords": [
+      "adli",
+      "bilimler",
+      "ceza",
+      "adaleti",
+      "kulüp",
+      "kulup",
+      "topluluk",
+      "student club",
+      "sks"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "ANESTEZİ KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Anestezi Kulübü is a health sciences related student club at Üsküdar University.",
+    "activities": [
+      "Student club meetings",
+      "Workshops and seminars",
+      "Health sciences events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323600_anestezi-kulubu.png&w=256&q=75",
+    "keywords": [
+      "anestezi",
+      "kulüp",
+      "kulup",
+      "topluluk",
+      "sağlık",
+      "saglik",
+      "health",
+      "student club",
+      "sks"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "ANİMASYON KULÜBÜ",
+    "category": "Art and Culture",
+    "description": "Animasyon Kulübü is an art and culture focused student club at Üsküdar University.",
+    "activities": [
+      "Animation meetings",
+      "Creative workshops",
+      "Social and cultural events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763838985_animasyon-kulubu.png&w=256&q=75",
+    "keywords": [
+      "animasyon",
+      "animation",
+      "sanat",
+      "art",
+      "kulüp",
+      "kulup",
+      "topluluk",
+      "student club",
+      "sks"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "AVRUPA TIP ÖĞRENCİLERİ BİRLİĞİ KULÜBÜ (EMSA)",
+    "category": "Health Sciences",
+    "description": "Avrupa Tıp Öğrencileri Birliği Kulübü is a medical student club at Üsküdar University.",
+    "activities": [
+      "Medical student meetings",
+      "Health seminars",
+      "Academic and social events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763840327_avrupa-tip-ogrencileri-birligi-kulubu-emsa.png&w=256&q=75",
+    "keywords": [
+      "avrupa",
+      "tıp",
+      "tip",
+      "öğrenci",
+      "ogrenci",
+      "emsa",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup",
+      "student club"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "BESLENME VE DİYETETİK KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Beslenme ve Diyetetik Kulübü is a nutrition and dietetics related student club at Üsküdar University.",
+    "activities": [
+      "Nutrition seminars",
+      "Health workshops",
+      "Student club meetings"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763325615_beslenme-ve-diyetetik-kulubu.png&w=256&q=75",
+    "keywords": [
+      "beslenme",
+      "diyetetik",
+      "nutrition",
+      "diet",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup",
+      "student club"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "BİKUTU VE ROL YAPMA OYUNLARI KULÜBÜ",
+    "category": "Social and Culture",
+    "description": "Bikutu ve Rol Yapma Oyunları Kulübü is a social and game-oriented student club at Üsküdar University.",
+    "activities": [
+      "Role-playing game meetings",
+      "Board game events",
+      "Social activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323617_bikutu-ve-rol-yapma-oyunlari-kulubu.png&w=256&q=75",
+    "keywords": [
+      "bikutu",
+      "rol yapma",
+      "oyun",
+      "game",
+      "rpg",
+      "kulüp",
+      "kulup",
+      "topluluk"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "BİLİMSEL ARAŞTIRMA KULÜBÜ",
+    "category": "Academic",
+    "description": "Bilimsel Araştırma Kulübü is an academic research focused student club at Üsküdar University.",
+    "activities": [
+      "Research meetings",
+      "Academic seminars",
+      "Scientific project discussions"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763320712_bilimsel-arastirma-kulubu.png&w=256&q=75",
+    "keywords": [
+      "bilimsel",
+      "araştırma",
+      "arastirma",
+      "research",
+      "academic",
+      "akademik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "BİYOTEKNOLOJİ VE BİYOMÜHENDİSLİK KULÜBÜ",
+    "category": "Academic and Technology",
+    "description": "Biyoteknoloji ve Biyomühendislik Kulübü is an academic and technology-oriented student club at Üsküdar University.",
+    "activities": [
+      "Biotechnology meetings",
+      "Engineering seminars",
+      "Scientific workshops"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763320785_biyoteknoloji-ve-biyomuhendislik-kulubu.png&w=256&q=75",
+    "keywords": [
+      "biyoteknoloji",
+      "biyomühendislik",
+      "biyomuhendislik",
+      "biotechnology",
+      "engineering",
+      "mühendislik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "ÇAĞIN VİCDANI KULÜBÜ",
+    "category": "Social Responsibility",
+    "description": "Çağın Vicdanı Kulübü is a social responsibility focused student club at Üsküdar University.",
+    "activities": [
+      "Social responsibility events",
+      "Awareness meetings",
+      "Student activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323797_cagin-vicdani-kulubu.png&w=256&q=75",
+    "keywords": [
+      "çağın",
+      "cagin",
+      "vicdanı",
+      "vicdani",
+      "sosyal sorumluluk",
+      "social responsibility",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "CHEMICAL ENGINEERING SOCIETY KULÜBÜ",
+    "category": "Academic and Technology",
+    "description": "Chemical Engineering Society Kulübü is an engineering focused student club at Üsküdar University.",
+    "activities": [
+      "Engineering meetings",
+      "Academic seminars",
+      "Student project activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fuskudar.edu.tr%2Fassets%2Fuploads%2Fogrencikulup%2F213%2Fchemical-engineering-society-club.png&w=256&q=75",
+    "keywords": [
+      "chemical",
+      "engineering",
+      "chemistry",
+      "kimya",
+      "mühendislik",
+      "muhendislik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "ÇOCUK GELİŞİMİ KULÜBÜ",
+    "category": "Health and Education",
+    "description": "Çocuk Gelişimi Kulübü is a child development and education related student club at Üsküdar University.",
+    "activities": [
+      "Child development meetings",
+      "Educational workshops",
+      "Student club activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323842_cocuk-gelisimi-kulubu.png&w=256&q=75",
+    "keywords": [
+      "çocuk",
+      "cocuk",
+      "gelişimi",
+      "gelisimi",
+      "education",
+      "eğitim",
+      "egitim",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "DANS KULÜBÜ",
+    "category": "Art and Culture",
+    "description": "Dans Kulübü is an art and culture focused student club at Üsküdar University.",
+    "activities": [
+      "Dance practices",
+      "Stage events",
+      "Social activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323863_dans-kulubu.png&w=256&q=75",
+    "keywords": [
+      "dans",
+      "dance",
+      "sanat",
+      "art",
+      "kültür",
+      "kultur",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "DEVELOPER STUDENTS KULÜBÜ",
+    "category": "Technology",
+    "description": "Developer Students Kulübü is a software and technology focused student club at Üsküdar University.",
+    "activities": [
+      "Software development meetings",
+      "Coding workshops",
+      "Technology seminars",
+      "Project activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763321341_developer-students-kulubu.png&w=256&q=75",
+    "keywords": [
+      "developer",
+      "software",
+      "yazılım",
+      "yazilim",
+      "coding",
+      "programming",
+      "teknoloji",
+      "technology",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "DİL VE KONUŞMA TERAPİSİ KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Dil ve Konuşma Terapisi Kulübü is a health sciences related student club at Üsküdar University.",
+    "activities": [
+      "Speech therapy meetings",
+      "Health seminars",
+      "Student club activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323885_dil-ve-konusma-terapisi-kulubu.png&w=256&q=75",
+    "keywords": [
+      "dil",
+      "konuşma",
+      "konusma",
+      "terapi",
+      "terapisi",
+      "speech therapy",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "DİŞ HEKİMLİĞİ VE ÖĞRENCİ BİRLİĞİ KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Diş Hekimliği ve Öğrenci Birliği Kulübü is a dentistry related student club at Üsküdar University.",
+    "activities": [
+      "Dentistry student meetings",
+      "Health seminars",
+      "Academic events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763325593_dis-hekimligi-ve-ogrenci-birligi-kulubu.png&w=256&q=75",
+    "keywords": [
+      "diş",
+      "dis",
+      "hekimliği",
+      "hekimligi",
+      "öğrenci",
+      "ogrenci",
+      "dentistry",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "DİŞ PROTEZ KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Diş Protez Kulübü is a dental prosthesis related student club at Üsküdar University.",
+    "activities": [
+      "Dental prosthesis meetings",
+      "Health workshops",
+      "Academic events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763840832_dis-protez-kulubu.png&w=256&q=75",
+    "keywords": [
+      "diş",
+      "dis",
+      "protez",
+      "dental",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "EKOVİZYON KULÜBÜ",
+    "category": "Student Club",
+    "description": "Ekovizyon Kulübü is a student club at Üsküdar University.",
+    "activities": [
+      "Student club meetings",
+      "Workshops and seminars",
+      "Social and academic events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763323905_ekovizyon-kulubu.png&w=256&q=75",
+    "keywords": [
+      "ekovizyon",
+      "eco",
+      "vision",
+      "kulüp",
+      "kulup",
+      "topluluk",
+      "student club",
+      "sks"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "ENDÜSTRİ VE LİDERLİK KULÜBÜ",
+    "category": "Academic and Career",
+    "description": "Endüstri ve Liderlik Kulübü is a career and leadership focused student club at Üsküdar University.",
+    "activities": [
+      "Leadership meetings",
+      "Career seminars",
+      "Industry focused events"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763324149_endustri-ve-liderlik-kulubu.png&w=256&q=75",
+    "keywords": [
+      "endüstri",
+      "endustri",
+      "liderlik",
+      "leadership",
+      "career",
+      "kariyer",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "ERGOTERAPİ KULÜBÜ",
+    "category": "Health Sciences",
+    "description": "Ergoterapi Kulübü is a health sciences related student club at Üsküdar University.",
+    "activities": [
+      "Ergotherapy meetings",
+      "Health workshops",
+      "Student club activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763841300_ergoterapi-kulubu.png&w=256&q=75",
+    "keywords": [
+      "ergoterapi",
+      "ergotherapy",
+      "occupational therapy",
+      "sağlık",
+      "saglik",
+      "kulüp",
+      "kulup"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "EŞİT ADIMLAR KULÜBÜ",
+    "category": "Social Responsibility",
+    "description": "Eşit Adımlar Kulübü is a social responsibility focused student club at Üsküdar University.",
+    "activities": [
+      "Social responsibility events",
+      "Awareness meetings",
+      "Student activities"
+    ],
+    "contact": "Not available",
+    "image_url": "https://sks.uskudar.edu.tr/_next/image?url=https%3A%2F%2Fcdn.sks.uskudar.edu.tr%2Fstudent_clubs%2F1763839940_esit-adimlar-kulubu.png&w=256&q=75",
+    "keywords": [
+      "eşit",
+      "esit",
+      "adımlar",
+      "adimlar",
+      "equality",
+      "social responsibility",
+      "sosyal sorumluluk",
+      "kulüp",
+      "kulup"
+    ]
+  }
+]

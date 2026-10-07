@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "title": "Application and Research Centers",
+    "category": "Research Centers",
+    "description": "Üsküdar University has application and research centers that support academic studies, interdisciplinary projects and scientific research activities.",
+    "source_url": "https://uskudar.edu.tr/en/application-and-research-centers",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/uygulama-ve-arastirma-merkezleri-2010.jpg?t=1750080068",
+    "keywords": [
+      "research",
+      "araştırma",
+      "arastirma",
+      "application",
+      "research centers",
+      "uygulama ve araştırma merkezleri",
+      "merkez",
+      "scientific research",
+      "akademik çalışma"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Our Laboratories",
+    "category": "Laboratories",
+    "description": "Üsküdar University laboratories support practical education, academic research and scientific project development.",
+    "source_url": "https://uskudar.edu.tr/en/laboratories",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/laboratuvarlarimiz-2009.jpg?t=1750080053",
+    "keywords": [
+      "laboratory",
+      "laboratories",
+      "lab",
+      "laboratuvar",
+      "araştırma",
+      "research",
+      "science",
+      "scientific",
+      "practical education"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Working Groups",
+    "category": "Research Groups",
+    "description": "Working groups at Üsküdar University bring academics and researchers together around specific scientific topics and research areas.",
+    "source_url": "https://uskudar.edu.tr/en/working-groups",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/calisma-gruplari-2011.jpg?t=1750080077",
+    "keywords": [
+      "working groups",
+      "çalışma grupları",
+      "calisma gruplari",
+      "research group",
+      "araştırma grubu",
+      "academic group",
+      "scientific study"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Brainpark TTO",
+    "category": "Technology Transfer Office",
+    "description": "Brainpark TTO supports research, development, innovation, entrepreneurship and university-industry collaboration activities.",
+    "source_url": "https://uskudar.edu.tr/en/uskudar.edu.tr/tto",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/brainpark-tto-argeyep-2008.jpg?t=1750080038",
+    "keywords": [
+      "brainpark",
+      "tto",
+      "technology transfer",
+      "teknoloji transfer",
+      "innovation",
+      "inovasyon",
+      "entrepreneurship",
+      "girişimcilik",
+      "research development",
+      "arge",
+      "r&d"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Scientific Research Projects",
+    "category": "BAP",
+    "description": "Scientific Research Projects, also known as BAP, support academic research projects carried out by university researchers.",
+    "source_url": "https://uskudar.edu.tr/en/scientific-research-projects-bap",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/bilimsel-arastirma-projeleri-bap-2013.jpg?t=1750080099",
+    "keywords": [
+      "bap",
+      "scientific research projects",
+      "bilimsel araştırma projeleri",
+      "bilimsel arastirma projeleri",
+      "project",
+      "proje",
+      "academic research",
+      "research support"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Examples of Our Projects",
+    "category": "Projects",
+    "description": "This page includes examples of projects carried out at Üsküdar University and shows the university's research and project development activities.",
+    "source_url": "https://uskudar.edu.tr/en/examples-of-our-projects",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/projelerimizden-ornekler-5277.jpg?t=1752065402",
+    "keywords": [
+      "projects",
+      "project examples",
+      "projeler",
+      "proje örnekleri",
+      "proje ornekleri",
+      "research project",
+      "academic project",
+      "examples"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Academic Research Organization Scheme",
+    "category": "Research Organization",
+    "description": "The academic research organization scheme presents the organizational structure of academic research at Üsküdar University.",
+    "source_url": "https://uskudar.edu.tr/assets/uploads/file/uu-akademik-arastirmalar-ana-organizasyon-semasi.jpg?v=23423",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/akademik-arastirmalar-org-semasi-2014.jpg?t=1750080109",
+    "keywords": [
+      "academic research",
+      "organization scheme",
+      "organizasyon şeması",
+      "organizasyon semasi",
+      "akademik araştırmalar",
+      "akademik arastirmalar",
+      "research structure"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "R&D Focuses",
+    "category": "R&D",
+    "description": "Üsküdar University has R&D focuses that show the main research and development priorities of the university.",
+    "source_url": "https://uskudar.edu.tr/en/rampd-focuses",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/arge-odaklarimiz-5219.jpg?t=1750226905",
+    "keywords": [
+      "r&d",
+      "rampd",
+      "arge",
+      "r&d focuses",
+      "arge odakları",
+      "arge odaklari",
+      "research development",
+      "innovation",
+      "scientific focus"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Library",
+    "category": "Research Support",
+    "description": "The university library provides access to academic resources, databases and research materials for students and researchers.",
+    "source_url": "https://kutuphane.uskudar.edu.tr/en",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/library-8837.jpg?t=1775031919",
+    "keywords": [
+      "library",
+      "kütüphane",
+      "kutuphane",
+      "academic resources",
+      "database",
+      "veritabanı",
+      "veritabani",
+      "research materials",
+      "student research"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Ethics Committees",
+    "category": "Ethics",
+    "description": "Ethics committees evaluate research processes according to ethical principles and support responsible scientific research.",
+    "source_url": "https://uskudar.edu.tr/en/ethics-committees",
+    "image_url": "https://cdn.uskudar.dev/site/1/menu/girisimsel-olmayan-etik-kurul-2012.jpg?t=1750080089",
+    "keywords": [
+      "ethics",
+      "ethics committee",
+      "etik kurul",
+      "etik komite",
+      "research ethics",
+      "scientific ethics",
+      "responsible research"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Publications",
+    "category": "Academic Publications",
+    "description": "Academic publications represent the scientific output of the university and support research visibility.",
+    "source_url": "https://uskudar.edu.tr/en/publications",
+    "image_url": "Not available",
+    "keywords": [
+      "publications",
+      "yayınlar",
+      "yayinlar",
+      "academic publication",
+      "scientific output",
+      "article",
+      "paper",
+      "research publication"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Academic Studies",
+    "category": "Academic Research",
+    "description": "Academic studies at Üsküdar University include research activities, scientific projects and scholarly work carried out by academic staff.",
+    "source_url": "https://uskudar.edu.tr/en/academic-studies",
+    "image_url": "Not available",
+    "keywords": [
+      "academic studies",
+      "akademik çalışmalar",
+      "akademik calismalar",
+      "research activities",
+      "scientific studies",
+      "academic staff",
+      "research",
+      "araştırma"
+    ]
+  }
+]

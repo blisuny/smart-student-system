@@ -1,0 +1,270 @@
+[
+  {
+    "id": 1,
+    "title": "Erasmus Nedir?",
+    "category": "General Information",
+    "description": "Erasmus Programı, Avrupa ülkeleri arasında gerçekleşen akademik değişim programıdır. Yurt dışında eğitim-öğretim ve staj iş birliklerini desteklemektedir.",
+    "keywords": [
+      "erasmus",
+      "erasmus nedir",
+      "değişim programı",
+      "degisim programi",
+      "akademik değişim",
+      "yurt dışı",
+      "yurt disi",
+      "staj",
+      "öğrenim",
+      "ogrenim"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Erasmus Hareketlilik Türleri",
+    "category": "Mobility Types",
+    "description": "Öğrenciler Erasmus+ programı kapsamında iki tür hareketlilikten faydalanabilir: Öğrenim Hareketliliği ve Staj Hareketliliği.",
+    "mobility_types": [
+      "Öğrenim Hareketliliği",
+      "Staj Hareketliliği"
+    ],
+    "keywords": [
+      "hareketlilik",
+      "hareketlilik türleri",
+      "mobility",
+      "öğrenim hareketliliği",
+      "ogrenim hareketliligi",
+      "staj hareketliliği",
+      "staj hareketliligi",
+      "erasmus türleri"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Erasmus Öğrenim Hareketliliği",
+    "category": "Study Mobility",
+    "description": "Erasmus Öğrenim Hareketliliği, yükseköğretim kurumunda kayıtlı öğrencinin bir akademik yıl içerisinde eğitiminin bir veya iki dönemini Avrupa Birliği üyesi bir ülkedeki anlaşmalı bir yükseköğretim kurumunda gerçekleştirmesidir.",
+    "details": [
+      "Hareketlilik anlaşmalı üniversiteler arasında gerçekleştirilir.",
+      "Hareketlilik süresi minimum 1 dönem, maksimum 1 akademik yıldır."
+    ],
+    "keywords": [
+      "öğrenim hareketliliği",
+      "ogrenim hareketliligi",
+      "study mobility",
+      "erasmus öğrenim",
+      "erasmus ogrenim",
+      "anlaşmalı üniversite",
+      "anlasmali universite",
+      "partner university",
+      "bir dönem",
+      "akademik yıl"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Erasmus Staj Hareketliliği",
+    "category": "Internship Mobility",
+    "description": "Erasmus Staj Hareketliliği, yükseköğretim kurumunda kayıtlı öğrencinin yurt dışındaki bir işletmede mesleki eğitim alma ve çalışma deneyimi kazanmak için staj yapmasıdır.",
+    "details": [
+      "Staj hareketliliğinde gidilecek kurum ile üniversite arasında anlaşma şartı bulunmaz.",
+      "Hareketlilik süresi minimum 2 aydır.",
+      "2 ayın altında kalan hareketlilikler hibelendirilemez."
+    ],
+    "keywords": [
+      "staj hareketliliği",
+      "staj hareketliligi",
+      "internship mobility",
+      "erasmus staj",
+      "yurt dışı staj",
+      "yurt disi staj",
+      "mesleki eğitim",
+      "calisma deneyimi",
+      "çalışma deneyimi",
+      "minimum 2 ay",
+      "hibe"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Erasmus Başvurusu Nasıl Yapılır?",
+    "category": "Application Process",
+    "description": "Erasmus Ofisi tarafından her akademik yılda Erasmus Öğrenim ve Staj Hareketliliği için başvuru çağrısı yapılır. Başvuru duyurusu öğrencilere e-posta yoluyla iletilir. Öğrenciler belirtilen minimum kriterleri karşıladıkları takdirde başvurularını Erasmus Ofisi'nin duyuracağı ilandan gerçekleştirebilir.",
+    "keywords": [
+      "erasmus başvuru",
+      "erasmus basvuru",
+      "nasıl başvurulur",
+      "nasil basvurulur",
+      "başvuru çağrısı",
+      "basvuru cagrisi",
+      "erasmus ofisi",
+      "e-posta",
+      "duyuru",
+      "ilan"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Erasmus Başvuru Kriterleri",
+    "category": "Application Requirements",
+    "description": "Erasmus başvurusu için öğrencilerin belirli akademik not ortalaması kriterlerini sağlaması gerekir.",
+    "requirements": [
+      {
+        "student_level": "Ön lisans / Lisans Programları",
+        "minimum_gpa": "2.20/4.00"
+      },
+      {
+        "student_level": "Lisansüstü Programlar",
+        "minimum_gpa": "2.50/4.00"
+      }
+    ],
+    "note": "Başvuru kriterleri Ulusal Ajans'ın yayınladığı El Kitabı'na göre belirlenmektedir ve her akademik yıl değişiklik gösterebilir.",
+    "keywords": [
+      "erasmus şartları",
+      "erasmus sartlari",
+      "başvuru kriterleri",
+      "basvuru kriterleri",
+      "ortalama",
+      "gano",
+      "not ortalaması",
+      "not ortalamasi",
+      "minimum gpa",
+      "2.20",
+      "2.50",
+      "lisans",
+      "ön lisans",
+      "on lisans",
+      "lisansüstü",
+      "lisansustu"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Erasmus Değerlendirme Kriterleri",
+    "category": "Evaluation Criteria",
+    "description": "Erasmus başvurularında değerlendirme not ortalaması ve dil seviyesi üzerinden yapılır.",
+    "evaluation_criteria": [
+      {
+        "criterion": "Not Ortalaması",
+        "weight": "%50"
+      },
+      {
+        "criterion": "Dil Seviyesi",
+        "weight": "%50"
+      }
+    ],
+    "keywords": [
+      "değerlendirme",
+      "degerlendirme",
+      "erasmus puan",
+      "not ortalaması",
+      "not ortalamasi",
+      "dil seviyesi",
+      "language level",
+      "yabancı dil",
+      "yabanci dil",
+      "yüzde 50",
+      "50"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Erasmus'a Hangi Bölümler Başvurabilir?",
+    "category": "Eligible Departments",
+    "description": "Erasmus Öğrenim ve Staj Hareketliliği'ne bütün bölümlerden belirtilen minimum kriterleri sağlayan öğrenciler başvurabilir.",
+    "details": [
+      "Öğrenim hareketliliği için öğrenciler partner üniversiteleri inceleyebilir.",
+      "Öğrenim hareketlilikleri sadece bölümün anlaşması bulunan partner üniversitelere yapılabilir.",
+      "Partner üniversiteler her akademik yıl değişiklik gösterebilir."
+    ],
+    "partner_universities_url": "https://erasmus.uskudar.edu.tr/en/partner-universities",
+    "keywords": [
+      "hangi bölümler",
+      "hangi bolumler",
+      "kimler başvurabilir",
+      "kimler basvurabilir",
+      "bütün bölümler",
+      "tum bolumler",
+      "partner üniversite",
+      "partner university",
+      "anlaşmalı üniversite",
+      "anlasmali universite"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Erasmus Hibesi Ne Kadar?",
+    "category": "Grant Information",
+    "description": "Öğrenciler gidecekleri ülkeye göre öğrenim hareketliliği için aylık 450 veya 600 Avro, staj hareketliliği için aylık 600 veya 750 Avro hibe alabilir.",
+    "grant_amounts": [
+      {
+        "mobility_type": "Öğrenim Hareketliliği",
+        "amount": "Aylık 450 veya 600 Avro"
+      },
+      {
+        "mobility_type": "Staj Hareketliliği",
+        "amount": "Aylık 600 veya 750 Avro"
+      }
+    ],
+    "note": "Hibe miktarları Ulusal Ajans'ın yayınladığı El Kitabı'na göre belirlenmektedir ve her akademik yıl değişiklik gösterebilir.",
+    "keywords": [
+      "erasmus hibesi",
+      "hibe",
+      "hibe miktarı",
+      "hibe miktari",
+      "kaç avro",
+      "kac avro",
+      "450 avro",
+      "600 avro",
+      "750 avro",
+      "öğrenim hibesi",
+      "staj hibesi"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Erasmus Ülkeleri",
+    "category": "Partner Countries",
+    "description": "Üsküdar Üniversitesi'nin Almanya, Avusturya, Belçika, Fransa, İspanya, Danimarka ve İsveç'in de bulunduğu 23 farklı Avrupa ülkesindeki alanında önde gelen 100'den fazla üniversite ile Erasmus anlaşması bulunmaktadır.",
+    "countries_examples": [
+      "Almanya",
+      "Avusturya",
+      "Belçika",
+      "Fransa",
+      "İspanya",
+      "Danimarka",
+      "İsveç"
+    ],
+    "note": "Hareketlilik sayıları hibe durumuna göre her sene değişiklik gösterebilir.",
+    "keywords": [
+      "erasmus ülkeleri",
+      "erasmus ulkeleri",
+      "hangi ülkeler",
+      "hangi ulkeler",
+      "almanya",
+      "avusturya",
+      "belçika",
+      "belcika",
+      "fransa",
+      "ispanya",
+      "danimarka",
+      "isveç",
+      "isvec",
+      "avrupa"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "Erasmus Detaylı Bilgi",
+    "category": "Contact and Detailed Information",
+    "description": "Erasmus hakkında detaylı bilgi için Üsküdar Üniversitesi Erasmus sayfası incelenebilir.",
+    "website": "https://erasmus.uskudar.edu.tr",
+    "keywords": [
+      "detaylı bilgi",
+      "detayli bilgi",
+      "erasmus sitesi",
+      "erasmus web sitesi",
+      "erasmus.uskudar.edu.tr",
+      "iletişim",
+      "iletisim"
+    ]
+  }
+]
