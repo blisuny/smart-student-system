@@ -1,0 +1,51 @@
+[
+  {
+    "id": "prof_dr_r_yesi_orkun_kozano_lu",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Orkun Kozanoğlu — schedule (2024-2025 Spring)",
+    "text": "Professor: Dr. Öğr. Üyesi Orkun Kozanoğlu\nDepartment: Industrial Engineering (English)\nAcademic year: 2024-2025 Spring\n\n- office_hours: Monday | 13:40 - 15:30 | Online\n- office_hours: Thursday | 13:40 - 15:30 | Online\n- busy_blocks: Monday | 10:40 - 12:30 | IE492 Graduation Thesis\n- busy_blocks: Tuesday | 10:40 - 12:30 | IE492 Graduation Thesis\n- busy_blocks: Wednesday | 10:40 - 12:30 | IE492 Graduation Thesis\n- busy_blocks: Thursday | 10:40 - 12:30 | IE492 Graduation Thesis\n- free_days: Friday (no on-campus office hours shown)",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_asst_prof_mert_mehmet_oymak",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi / Asst. Prof. Mert Mehmet Oymak — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi / Asst. Prof. Mert Mehmet Oymak\nDepartment: Chemical Engineering (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Monday | 11:40 - 13:30 | Office Hour\n- office_hours: Monday | 13:40 - 15:30 | Office Hour\n- office_hours: Tuesday | 14:40 - 15:30 | Office Hour\n- office_hours: Tuesday | 15:40 - 16:30 | Office Hour\n- research_times: Thursday | All day | Research M.S. Thesis\n- research_times: Friday | All day | Research M.S. Thesis",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_i_dem_sezer_zhmurov",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Çiğdem Sezer Zhmurov — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi Çiğdem Sezer Zhmurov\nDepartment: Molecular Biology and Genetics (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Tuesday | 10:40 - 12:30 | Office Hours\n- research_times: Tuesday | 13:40 - 17:30 | Research\n- research_times: Wednesday | 13:40 - 17:30 | Research\n- research_times: Friday | 13:40 - 17:30 | Research\n- busy_blocks: Monday | 09:40 - 12:30 | MBG447 Ecology and Sustainability (A-Kuleli)\n- busy_blocks: Wednesday | 09:40 - 12:30 | MBG475 Special Projects\n- busy_blocks: Thursday | 11:40 - 14:30 | MBG343 Genetic Disorders (C-Aziz Sancar)\n- busy_blocks: Friday | 09:40 - 12:30 | MBG325 Biotechnology (D-102)",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_handan_emi_o_lu_k_lahl",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Handan Emişoğlu Külahlı — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi Handan Emişoğlu Külahlı\nDepartment: Bioengineering (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Wednesday | 09:40 - 11:30\n- office_hours: Friday | 09:40 - 11:30\n- busy_blocks: Thursday | 10:40 - 13:30 | BEN493 Graduation Project",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_atakan_meral",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Atakan Meral — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi Atakan Meral\nDepartment: Bioengineering (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Thursday | 14:40 - 15:30\n- research_times: Tuesday | All day",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_fatih_temiz",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Fatih Temiz — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi Fatih Temiz\nDepartment: Computer Engineering (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Thursday | 12:40 - 15:30\n- busy_blocks: Friday | 10:40 - 12:30 | COM499 Grad Project",
+    "source": "professor_schedule"
+  },
+  {
+    "id": "prof_dr_r_yesi_ahmet_enol",
+    "language": "en",
+    "title": "Dr. Öğr. Üyesi Ahmet Şenol — schedule (2025-2026 Fall)",
+    "text": "Professor: Dr. Öğr. Üyesi Ahmet Şenol\nDepartment: Computer Engineering (English)\nAcademic year: 2025-2026 Fall\n\n- office_hours: Tuesday | 15:40 - 17:30\n- busy_blocks: Monday | 18:40 - 22:30 | Cyber Systems & Information Security\n- busy_blocks: Wednesday | 18:40 - 20:30 | Advanced Computer Networks",
+    "source": "professor_schedule"
+  }
+]

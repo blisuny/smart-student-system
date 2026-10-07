@@ -1,0 +1,44 @@
+[
+  {"id": "q_tr_001", "question": "Mezuniyet projesi raporunda hangi bölümler olmalı?", "language": "tr", "expected_answer": "problem,yöntem,sonuç", "expected_source": "project_rules"},
+  {"id": "q_en_001", "question": "What sections should a graduation project report include?", "language": "en", "expected_answer": "problem,method,results", "expected_source": "project_rules"},
+  {"id": "q_tr_002", "question": "Üsküdar Üniversitesi merkez kütüphane saatleri nedir?", "language": "tr", "expected_answer": "kütüphane,saat", "expected_source": "uskudar.edu.tr"},
+  {"id": "q_en_002", "question": "What are the opening hours of the Üsküdar University central library?", "language": "en", "expected_answer": "library,hours", "expected_source": "uskudar.edu.tr"},
+  {"id": "q_tr_003", "question": "OBS üzerinden ders kaydı nasıl yapılır?", "language": "tr", "expected_answer": "ders,kayıt,obs", "expected_source": "obs"},
+  {"id": "q_en_003", "question": "How do I register for courses on OBS?", "language": "en", "expected_answer": "course,registration,obs", "expected_source": "obs"},
+  {"id": "q_tr_004", "question": "Erasmus+ programının amacı nedir?", "language": "tr", "expected_answer": "erasmus,değişim", "expected_source": "uskudar.edu.tr"},
+  {"id": "q_en_004", "question": "What is the purpose of the Erasmus+ programme?", "language": "en", "expected_answer": "erasmus,exchange", "expected_source": "uskudar.edu.tr"},
+  {"id": "q_tr_005", "question": "Telafi sınavı nasıl eklenir?", "language": "tr", "expected_answer": "telafi,sınav", "expected_source": "obs"},
+  {"id": "q_en_005", "question": "How can I add a make-up exam on OBS?", "language": "en", "expected_answer": "make-up,exam,obs", "expected_source": "obs"},
+
+  {"id": "q_tr_006", "question": "Üniversitede hangi öğrenci kulüpleri bulunmaktadır?", "language": "tr", "expected_answer": "kulüp,öğrenci", "expected_source": "sks.uskudar.edu.tr/student-clubs"},
+  {"id": "q_en_006", "question": "Is there an anesthesia student club at the university?", "language": "en", "expected_answer": "anesthesia,club", "expected_source": "sks.uskudar.edu.tr/student-clubs"},
+  {"id": "q_tr_007", "question": "Animasyon Kulübü ne tür bir kulüptür?", "language": "tr", "expected_answer": "animasyon,kültür,sanat", "expected_source": "sks.uskudar.edu.tr/student-clubs"},
+
+  {"id": "q_tr_008", "question": "Rowanda Ahmed hangi bölümde görev yapıyor?", "language": "tr", "expected_answer": "bilgisayar,mühendisliği", "expected_source": "uskudar.edu.tr/akademik-personel"},
+  {"id": "q_en_007", "question": "In which department does Burhan Pektas work?", "language": "en", "expected_answer": "computer,engineering,mdbf", "expected_source": "uskudar.edu.tr/akademik-personel"},
+  {"id": "q_tr_009", "question": "Bilgisayar Mühendisliği bölümünde hangi öğretim üyeleri var?", "language": "tr", "expected_answer": "bilgisayar,öğretim üyesi", "expected_source": "uskudar.edu.tr/akademik-personel"},
+
+  {"id": "q_en_008", "question": "What is the office-hour schedule of Dr. Orkun Kozanoglu?", "language": "en", "expected_answer": "schedule,office,hours", "expected_source": "professor_schedule"},
+  {"id": "q_en_009", "question": "Which professor has a schedule in the Chemical Engineering department?", "language": "en", "expected_answer": "chemical,engineering,schedule", "expected_source": "professor_schedule"},
+
+  {"id": "q_tr_010", "question": "13. Dönem Mezuniyet Töreni ne zaman düzenlenecek?", "language": "tr", "expected_answer": "mezuniyet,töreni,temmuz", "expected_source": "uskudar.edu.tr/etkinlik"},
+  {"id": "q_en_010", "question": "When is the graduation ceremony event held?", "language": "en", "expected_answer": "graduation,ceremony,date", "expected_source": "uskudar.edu.tr/etkinlik"},
+
+  {"id": "q_tr_011", "question": "Üniversitede uygulama ve araştırma merkezleri var mı?", "language": "tr", "expected_answer": "araştırma,merkez", "expected_source": "uskudar.edu.tr/research"},
+  {"id": "q_en_011", "question": "What does Brainpark TTO support?", "language": "en", "expected_answer": "research,innovation,entrepreneurship", "expected_source": "uskudar.edu.tr/research"},
+
+  {"id": "q_tr_012", "question": "Erasmus hareketlilik türleri nelerdir?", "language": "tr", "expected_answer": "öğrenim,staj,hareketlilik", "expected_source": "uskudar.edu.tr/erasmus"},
+  {"id": "q_en_012", "question": "What types of Erasmus mobility are available to students?", "language": "en", "expected_answer": "study,traineeship,mobility", "expected_source": "uskudar.edu.tr/erasmus"},
+  {"id": "q_tr_013", "question": "Erasmus staj hareketliliği nedir?", "language": "tr", "expected_answer": "staj,hareketlilik", "expected_source": "uskudar.edu.tr/erasmus"},
+
+  {"id": "q_tr_014", "question": "Kampüste en yakın kafe nerede bulunuyor?", "language": "tr", "expected_answer": "kafe,kafeterya", "expected_source": "student_campus"},
+  {"id": "q_en_013", "question": "Where can I eat in A block?", "language": "en", "expected_answer": "eat,block,cafeteria", "expected_source": "student_campus"},
+  {"id": "q_tr_015", "question": "Tuvaletler hangi katlarda bulunuyor?", "language": "tr", "expected_answer": "tuvalet,kat", "expected_source": "student_campus"},
+
+  {"id": "q_tr_016", "question": "Öğrenci portalı nedir?", "language": "tr", "expected_answer": "portal,obs", "expected_source": "obs"},
+  {"id": "q_en_014", "question": "How can I drop a course after I have registered?", "language": "en", "expected_answer": "drop,course", "expected_source": "obs"},
+  {"id": "q_tr_017", "question": "Gelecek dönem için nasıl ders kaydı yaptırabilirim?", "language": "tr", "expected_answer": "ders,kayıt,dönem", "expected_source": "obs"},
+
+  {"id": "q_en_015", "question": "How can a student renew their registration?", "language": "en", "expected_answer": "renew,registration", "expected_source": "uskudar.edu.tr"},
+  {"id": "q_tr_018", "question": "Vize sınav tarihleri ne zaman açıklanır?", "language": "tr", "expected_answer": "vize,sınav,takvim", "expected_source": "uskudar.edu.tr"}
+]

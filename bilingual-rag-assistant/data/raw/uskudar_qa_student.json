@@ -1,0 +1,352 @@
+[
+  {
+    "id": "qa_student_1",
+    "language": "en",
+    "title": "A blokta nerede yemek yiyebiliriz?",
+    "text": "Soru / Question: A blokta nerede yemek yiyebiliriz?\nCevap / Answer: Aslında,A bloktan bahsediyorsak yemek yiyebileceğimiz iki yer var birisi 4.katta olan yemekhanemiz ve diğeri giriş katımızda bulunan kafeteryamız.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_2",
+    "language": "tr",
+    "title": "Kampüste en yakın kafe nerede?",
+    "text": "Soru / Question: Kampüste en yakın kafe nerede?\nCevap / Answer: Bizim kafeteryamız kafe olarak sayılıyorsa,giriş katımıza giriş yaptığınızda karşıda bulunan iki kapılı asansörün sol tarafında kalan yer diyebiliriz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_3",
+    "language": "tr",
+    "title": "Tuvalet hangi katta?",
+    "text": "Soru / Question: Tuvalet hangi katta?\nCevap / Answer: Her katta tuvaletlerimiz bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_4",
+    "language": "tr",
+    "title": "A blok giriş nerede?",
+    "text": "Soru / Question: A blok giriş nerede?\nCevap / Answer: Üniversite Sokağına giriş yaptığınızda yolun sağ tarafında bulunan B bloğun karşısında A blok bulunuyor.A bloğun 2 girişi vardır.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_5",
+    "language": "tr",
+    "title": "Kütüphane hangi blokta?",
+    "text": "Soru / Question: Kütüphane hangi blokta?\nCevap / Answer: A blokta giriş katından girdiğinizde sağ taraftataki koridora doğru yürürseniz koridorun sağında kütüphane girişi olduğunu görüceksiniz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_6",
+    "language": "tr",
+    "title": "Bir öğrenci olarak Wi-Fi’ye nasıl bağlanabilirim?",
+    "text": "Soru / Question: Bir öğrenci olarak Wi-Fi’ye nasıl bağlanabilirim?\nCevap / Answer: Öğrenci olarak bağlanmak isterseniz,ID ve şifrenizi sizi yönlendirdikleri yere girerek bağlanabilirsiniz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_7",
+    "language": "tr",
+    "title": "Öğrenci işleri nerede?",
+    "text": "Soru / Question: Öğrenci işleri nerede?\nCevap / Answer: Giriş katımızda hemen sol tarafta bulunuyor,simdi fark ettim de çoğu ihtiyacımız giriş katında bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_8",
+    "language": "tr",
+    "title": "A blokta kaç asansör bulunuyor?",
+    "text": "Soru / Question: A blokta kaç asansör bulunuyor?\nCevap / Answer: 3 tane,1 tanesi sadece öğretim üyelerine özel ama öğrenciler acil durumlarda kullanıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_9",
+    "language": "tr",
+    "title": "Kantin saat kaçta kapanıyor?",
+    "text": "Soru / Question: Kantin saat kaçta kapanıyor?\nCevap / Answer: 6 gibi kapanıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_10",
+    "language": "tr",
+    "title": "Sessiz bir çalışma alanı var mı?",
+    "text": "Soru / Question: Sessiz bir çalışma alanı var mı?\nCevap / Answer: Giriş katta kafeteryanın çaprazında çalışma alanımız bulunuyor ve bir de kütüphanemiz",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_11",
+    "language": "tr",
+    "title": "Fotokopi nerede çekiliyor?",
+    "text": "Soru / Question: Fotokopi nerede çekiliyor?\nCevap / Answer: Kütüphaneye gidn koridorun sonunda küçük bir kırtasiyemiz var orda fotokopi çekiliyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_12",
+    "language": "tr",
+    "title": "Danışma masası nerede?",
+    "text": "Soru / Question: Danışma masası nerede?\nCevap / Answer: Öğrenci işleri bizim danışma masamız sayılıyor ama 3.katta yabancı öğrenciler için danışma ofisi var.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_13",
+    "language": "tr",
+    "title": "Derslikleri gösteren bir plan var mı?",
+    "text": "Soru / Question: Derslikleri gösteren bir plan var mı?\nCevap / Answer: Ders yerlerini gösteren bir planımız yok ama genelde görevlilere sorup kolayca bulabilirsiniz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_14",
+    "language": "tr",
+    "title": "Kampüs çıkışı hangi tarafta?",
+    "text": "Soru / Question: Kampüs çıkışı hangi tarafta?\nCevap / Answer: Giriş ve çıkış aynı yerden oluyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_15",
+    "language": "tr",
+    "title": "Sınav yerleri nerelerde oluyor?",
+    "text": "Soru / Question: Sınav yerleri nerelerde oluyor?\nCevap / Answer: Genelde Aziz Sancar Konferans Salonunda ya da Nermin Tarhanda oluyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_16",
+    "language": "tr",
+    "title": "Bu sınav yerlerini tarif edebilir misiniz?",
+    "text": "Soru / Question: Bu sınav yerlerini tarif edebilir misiniz?\nCevap / Answer: Aziz Sancar C blokta bulunuyor ama B bloktan giriliyor -1.katta olması lazım.Nermin Tarhan ise A blokta 4.katta bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_17",
+    "language": "tr",
+    "title": "Üsküdar Üniversitesi'nin ana yerleşkesi nerededir?",
+    "text": "Soru / Question: Üsküdar Üniversitesi'nin ana yerleşkesi nerededir?\nCevap / Answer: A blok bizim Merkez yerleşkemiz sayılıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_18",
+    "language": "tr",
+    "title": "Üniversitede öğrenci kulüpleri bulunuyor mu?",
+    "text": "Soru / Question: Üniversitede öğrenci kulüpleri bulunuyor mu?\nCevap / Answer: Evet bulunuyor,giriş katımızda masalar kurulur ya da websitemizden başvuru yapılır.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_19",
+    "language": "tr",
+    "title": "Kampüste güvenlik hizmeti var mı?",
+    "text": "Soru / Question: Kampüste güvenlik hizmeti var mı?\nCevap / Answer: Her girişimizde güvenlikler mevcuttur.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_20",
+    "language": "tr",
+    "title": "Akademik takvime nereden ulaşabilirim?",
+    "text": "Soru / Question: Akademik takvime nereden ulaşabilirim?\nCevap / Answer: Üsküdar Üniversitesi'nin resmi sitesinde yandaki tablarda akedemik takvimimize ulaşabilirsiniz",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_21",
+    "language": "tr",
+    "title": "Üsküdar Üniversitesi'nin eğitim dili nedir?",
+    "text": "Soru / Question: Üsküdar Üniversitesi'nin eğitim dili nedir?\nCevap / Answer: Türkçe ve İngilizce ama çoğu profesörümüz türktür.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_22",
+    "language": "tr",
+    "title": "Üniversitede öğrencilere danışman atanıyor mu?",
+    "text": "Soru / Question: Üniversitede öğrencilere danışman atanıyor mu?\nCevap / Answer: Evet her sınıfa bir danışman öğretmen atanıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_23",
+    "language": "tr",
+    "title": "Danışman hocayla nasıl iletişime geçiyoruz?",
+    "text": "Soru / Question: Danışman hocayla nasıl iletişime geçiyoruz?\nCevap / Answer: Genelde mail atarak iletişime geçiyorsunuz ya da ofis saatlerinde odasına gidebilirsiniz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_24",
+    "language": "tr",
+    "title": "Ders iptali olursa nereden öğreniyoruz?",
+    "text": "Soru / Question: Ders iptali olursa nereden öğreniyoruz?\nCevap / Answer: Stix'ten duyuru atılıyor genelde.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_25",
+    "language": "tr",
+    "title": "OBS’ye nereden giriş yapıyoruz?",
+    "text": "Soru / Question: OBS’ye nereden giriş yapıyoruz?\nCevap / Answer: Üsküdar Üniversitesi’nin sitesinden OBS’ye giriş yapılıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_26",
+    "language": "tr",
+    "title": "Ders seçimleri nereden yapılıyor?",
+    "text": "Soru / Question: Ders seçimleri nereden yapılıyor?\nCevap / Answer: Ders seçimleri OBS sistemi üzerinden yapılıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_27",
+    "language": "tr",
+    "title": "Devamsızlık sınırı var mı?",
+    "text": "Soru / Question: Devamsızlık sınırı var mı?\nCevap / Answer: Evet var, genelde %70 devam zorunluluğu oluyor,yani 4 hakkınız oluyor genelde.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_28",
+    "language": "tr",
+    "title": "Final ve bütünleme sınavları nerede oluyor?",
+    "text": "Soru / Question: Final ve bütünleme sınavları nerede oluyor?\nCevap / Answer: Genelde A blokta ya da konferans salonlarında yapılıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_29",
+    "language": "tr",
+    "title": "Öğrenci belgesi nereden alınır?",
+    "text": "Soru / Question: Öğrenci belgesi nereden alınır?\nCevap / Answer: OBS üzerinden online olarak alabilirsiniz ya da öğrenci işlerinden istediğinizde veriliyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_30",
+    "language": "tr",
+    "title": "Kampüste oturup ders çalışabileceğimiz alanlar var mı?",
+    "text": "Soru / Question: Kampüste oturup ders çalışabileceğimiz alanlar var mı?\nCevap / Answer: Evet var, giriş katta çalışma alanları ve kütüphane bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_31",
+    "language": "tr",
+    "title": "Kütüphane saat kaça kadar açık?",
+    "text": "Soru / Question: Kütüphane saat kaça kadar açık?\nCevap / Answer: Genelde akşam saatlerine kadar açık oluyor ama saatler değişebiliyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_32",
+    "language": "tr",
+    "title": "Kütüphaneden kitap ödünç alabiliyor muyuz?",
+    "text": "Soru / Question: Kütüphaneden kitap ödünç alabiliyor muyuz?\nCevap / Answer: Evet, öğrenci kartımızla kitap ödünç alabiliyorsunuz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_33",
+    "language": "tr",
+    "title": "Kampüste yazıcı kullanabilir miyiz?",
+    "text": "Soru / Question: Kampüste yazıcı kullanabilir miyiz?\nCevap / Answer: Kırtasiye tarafında yazıcı ve fotokopi hizmeti var.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_34",
+    "language": "tr",
+    "title": "Kampüste sigara içilen alan var mı?",
+    "text": "Soru / Question: Kampüste sigara içilen alan var mı?\nCevap / Answer: Kafeteryamız açık alana sahip orada içiliyor ya da kütüphanenin yanında açık terasta veyahut 4.katımızdaki yemekhanemizin terasında içebilirsiniz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_35",
+    "language": "tr",
+    "title": "Dışarıdan yemek söylemek serbest mi?",
+    "text": "Soru / Question: Dışarıdan yemek söylemek serbest mi?\nCevap / Answer: Genelde sorun olmuyor, öğrenciler sık sık söylüyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_36",
+    "language": "tr",
+    "title": "Kampüse misafir getirebilir miyiz?",
+    "text": "Soru / Question: Kampüse misafir getirebilir miyiz?\nCevap / Answer: Evet ama güvenliğe kimlik bırakılması gerekiyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_37",
+    "language": "tr",
+    "title": "Kampüste etkinlikler oluyor mu?",
+    "text": "Soru / Question: Kampüste etkinlikler oluyor mu?\nCevap / Answer: Evet sık sık oluyor, genelde afişlerden ya da sosyal medyadan duyuruluyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_38",
+    "language": "tr",
+    "title": "Öğrenci kulüplerine sonradan katılabiliyor muyuz?",
+    "text": "Soru / Question: Öğrenci kulüplerine sonradan katılabiliyor muyuz?\nCevap / Answer: Evet, dönem içinde de katılabiliyoruz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_39",
+    "language": "tr",
+    "title": "Kampüste kayıp eşya bulunursa ne yapıyoruz?",
+    "text": "Soru / Question: Kampüste kayıp eşya bulunursa ne yapıyoruz?\nCevap / Answer: Güvenliğe teslim ediliyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_40",
+    "language": "tr",
+    "title": "Kampüste mescit var mı?",
+    "text": "Soru / Question: Kampüste mescit var mı?\nCevap / Answer: Evet, mescit bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_41",
+    "language": "tr",
+    "title": "Kampüste internet hızı iyi mi?",
+    "text": "Soru / Question: Kampüste internet hızı iyi mi?\nCevap / Answer: Genelde yeterli ama bazen yoğunluk olabiliyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_42",
+    "language": "tr",
+    "title": "Telefonumu şarj edebileceğim yer var mı?",
+    "text": "Soru / Question: Telefonumu şarj edebileceğim yer var mı?\nCevap / Answer: Bazı çalışma alanlarında priz bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_43",
+    "language": "tr",
+    "title": "Kampüste spor salonu var mı?",
+    "text": "Soru / Question: Kampüste spor salonu var mı?\nCevap / Answer: Bazı yerleşkelerde var ama her blokta yok.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_44",
+    "language": "tr",
+    "title": "Hocaların odalarını nasıl buluyoruz?",
+    "text": "Soru / Question: Hocaların odalarını nasıl buluyoruz?\nCevap / Answer: Kat panolarında ya da bölüm sekreterliğinden öğrenebiliyoruz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_45",
+    "language": "tr",
+    "title": "Sınav haftası kampüs çok kalabalık oluyor mu?",
+    "text": "Soru / Question: Sınav haftası kampüs çok kalabalık oluyor mu?\nCevap / Answer: Evet genelde bayağı kalabalık oluyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_46",
+    "language": "tr",
+    "title": "Dersler genelde kaçta başlıyor?",
+    "text": "Soru / Question: Dersler genelde kaçta başlıyor?\nCevap / Answer: Sabah dersleri genelde 9’da ya da 8.40'da başlıyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_47",
+    "language": "tr",
+    "title": "Kampüste bankamatik var mı?",
+    "text": "Soru / Question: Kampüste bankamatik var mı?\nCevap / Answer: Yakın çevrede bankamatikler bulunuyor.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_48",
+    "language": "tr",
+    "title": "Kampüste engelli erişimi var mı?",
+    "text": "Soru / Question: Kampüste engelli erişimi var mı?\nCevap / Answer: Evet, rampalar ve asansörler mevcut.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_49",
+    "language": "tr",
+    "title": "Kampüste kaybolursak kime sorabiliriz?",
+    "text": "Soru / Question: Kampüste kaybolursak kime sorabiliriz?\nCevap / Answer: Güvenliğe ya da öğrenci işlerine sorabiliriz.",
+    "source": "student_campus"
+  },
+  {
+    "id": "qa_student_50",
+    "language": "tr",
+    "title": "Kampüse ilk defa gelen biri kolayca yön bulabilir mi?",
+    "text": "Soru / Question: Kampüse ilk defa gelen biri kolayca yön bulabilir mi?\nCevap / Answer: Evet, biraz gezince alışılıyor ve görevliler de yardımcı oluyor.",
+    "source": "student_campus"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "id": "tr_001",
+    "language": "tr",
+    "title": "Mezuniyet Projesi Raporu",
+    "text": "Mezuniyet projesi raporunda problem tanımı, yöntem, deneyler, sonuçlar ve değerlendirme bölümleri bulunmalıdır.",
+    "source": "project_rules"
+  },
+  {
+    "id": "en_001",
+    "language": "en",
+    "title": "Graduation Project Report",
+    "text": "A graduation project report should include problem definition, methodology, experiments, results, and evaluation sections.",
+    "source": "project_rules"
+  },
+  {
+    "id": "tr_002",
+    "language": "tr",
+    "title": "Üsküdar Üniversitesi Kütüphane",
+    "text": "Üsküdar Üniversitesi merkez kampüsündeki İbrahim Tarhan Kütüphanesi hafta içi 07:30-21:00 saatleri arasında açıktır. Hafta sonu kapalıdır.",
+    "source": "uskudar.edu.tr"
+  },
+  {
+    "id": "en_002",
+    "language": "en",
+    "title": "Üsküdar University Library Hours",
+    "text": "The İbrahim Tarhan Library on the central campus of Üsküdar University is open on weekdays from 07:30 to 21:00. It is closed on weekends.",
+    "source": "uskudar.edu.tr"
+  },
+  {
+    "id": "tr_003",
+    "language": "tr",
+    "title": "Ders Kaydı",
+    "text": "Ders kaydı OBS sistemi üzerinden 'Ders Kayıt' bölümünden yapılır. Danışmanın onayı gerekmektedir.",
+    "source": "obs"
+  },
+  {
+    "id": "en_003",
+    "language": "en",
+    "title": "Course Registration",
+    "text": "Course registration is performed through the OBS portal under the 'Ders Kayıt' section. Advisor approval is required to finalize the registration.",
+    "source": "obs"
+  }
+]

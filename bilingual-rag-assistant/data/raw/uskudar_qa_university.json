@@ -1,0 +1,443 @@
+[
+  {
+    "id": "qa_university_1",
+    "language": "tr",
+    "title": "Öğrenci portalı nedir?",
+    "text": "Soru / Question: Öğrenci portalı nedir?\nCevap / Answer: Öğrenci portalı, OBS sistemidir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_2",
+    "language": "tr",
+    "title": "Gelecek dönem için nasıl ders kaydı yaptırabilirim?",
+    "text": "Soru / Question: Gelecek dönem için nasıl ders kaydı yaptırabilirim?\nCevap / Answer: Ders kaydınızı, OBS'deki 'Ders Kayıt' bölümünden yapabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_3",
+    "language": "tr",
+    "title": "Nasıl telafi sınavı eklerim?",
+    "text": "Soru / Question: Nasıl telafi sınavı eklerim?\nCevap / Answer: Telafi sınavı eklemek için, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Telafi Ekle' seçeneğine gidip gerekli adımları takip edebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_4",
+    "language": "tr",
+    "title": "Kaydımı yaptıktan sonra bir dersi nasıl bırakabilirim?",
+    "text": "Soru / Question: Kaydımı yaptıktan sonra bir dersi nasıl bırakabilirim?\nCevap / Answer: Ders bırakmak için OBS'deki 'Dönem ve Ders İşlemleri' bölümünde 'Ders Ekle/Kaldır' seçeneğini seçebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_5",
+    "language": "tr",
+    "title": "Dönem notlarımı nasıl kontrol edebilirim?",
+    "text": "Soru / Question: Dönem notlarımı nasıl kontrol edebilirim?\nCevap / Answer: Dönem notlarınızı, OBS'deki 'Dönem Notları' bölümünde bulabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_6",
+    "language": "tr",
+    "title": "Bölümümde sunulan derslerin listesini nerede görebilirim?",
+    "text": "Soru / Question: Bölümümde sunulan derslerin listesini nerede görebilirim?\nCevap / Answer: Bölümünüzde sunulan derslerin listesini, OBS'deki 'Bölümde Sunulan Dersler' bölümünden görebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_7",
+    "language": "tr",
+    "title": "Akademik danışmanımın iletişim bilgilerini nasıl bulabilirim?",
+    "text": "Soru / Question: Akademik danışmanımın iletişim bilgilerini nasıl bulabilirim?\nCevap / Answer: Akademik danışmanınızın iletişim bilgilerini, OBS'deki 'Genel İşlemler' bölümündeki 'Danışman Bilgileri' sekmesinden bulabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_8",
+    "language": "tr",
+    "title": "Transkriptimi çevrimiçi olarak alabilir miyim?",
+    "text": "Soru / Question: Transkriptimi çevrimiçi olarak alabilir miyim?\nCevap / Answer: Evet, transkriptinizi OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Transkript' sekmesinden çevrimiçi olarak alabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_9",
+    "language": "tr",
+    "title": "Devamsızlık durumumu nasıl kontrol edebilirim?",
+    "text": "Soru / Question: Devamsızlık durumumu nasıl kontrol edebilirim?\nCevap / Answer: Devamsızlık durumunuzu, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Devamsızlık Durumu' sekmesinden kontrol edebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_10",
+    "language": "tr",
+    "title": "Ek sınav başvurusu nasıl yapabilirim?",
+    "text": "Soru / Question: Ek sınav başvurusu nasıl yapabilirim?\nCevap / Answer: Ek sınav başvurusu yapmak için, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Ek Sınav Başvurusu' sekmesinden başvurunuzu iletebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_11",
+    "language": "tr",
+    "title": "Sınav tarihlerini nerede bulabilirim?",
+    "text": "Soru / Question: Sınav tarihlerini nerede bulabilirim?\nCevap / Answer: Sınav tarihlerinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Sınav Tarihleri' sekmesinde bulabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_12",
+    "language": "tr",
+    "title": "Üniversiteden belge nasıl talep edebilirim?",
+    "text": "Soru / Question: Üniversiteden belge nasıl talep edebilirim?\nCevap / Answer: Belge talebi yapmak için, OBS'deki 'Kullanıcı İşlemleri' bölümündeki 'Belge Talebi' sekmesine başvurabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_13",
+    "language": "tr",
+    "title": "Öğrenci fotoğrafımı nasıl güncelleyebilirim?",
+    "text": "Soru / Question: Öğrenci fotoğrafımı nasıl güncelleyebilirim?\nCevap / Answer: Öğrenci fotoğrafınızı, OBS'deki 'Kullanıcı İşlemleri' bölümündeki 'Fotoğraf Güncelle' sekmesinden güncelleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_14",
+    "language": "tr",
+    "title": "Üniversitenin akademik takvimine nasıl ulaşabilirim?",
+    "text": "Soru / Question: Üniversitenin akademik takvimine nasıl ulaşabilirim?\nCevap / Answer: Akademik takvim, OBS'deki 'Genel İşlemler' bölümündeki 'Genel Bilgiler' sekmesinde yer almaktadır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_15",
+    "language": "tr",
+    "title": "Bu dönem için ders programımı nasıl görebilirim?",
+    "text": "Soru / Question: Bu dönem için ders programımı nasıl görebilirim?\nCevap / Answer: Ders programınızı, OBS'deki 'Genel İşlemler' bölümündeki 'Ders Programı' sekmesinden görüntüleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_16",
+    "language": "tr",
+    "title": "Üniversiteyle ilgili kamu duyurularını nerede bulabilirim?",
+    "text": "Soru / Question: Üniversiteyle ilgili kamu duyurularını nerede bulabilirim?\nCevap / Answer: Kamu duyuruları, OBS'deki 'Genel İşlemler' bölümündeki 'Kamu Duyuruları' sekmesinde yayınlanmaktadır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_17",
+    "language": "tr",
+    "title": "Müfredat bilgi paketine nasıl erişebilirim?",
+    "text": "Soru / Question: Müfredat bilgi paketine nasıl erişebilirim?\nCevap / Answer: Müfredat bilgi paketine, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Müfredat Bilgisi Paketi' sekmesinden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_18",
+    "language": "tr",
+    "title": "Dönem ücretimi nasıl kontrol edebilirim?",
+    "text": "Soru / Question: Dönem ücretimi nasıl kontrol edebilirim?\nCevap / Answer: Dönem ücretinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Ödeme Listesi' sekmesinden kontrol edebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_19",
+    "language": "tr",
+    "title": "OBS üzerinden staj başvurusu nasıl yapılır?",
+    "text": "Soru / Question: OBS üzerinden staj başvurusu nasıl yapılır?\nCevap / Answer: Staj başvurusu, OBS'deki 'Genel İşlemler' bölümündeki 'Staj' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_20",
+    "language": "tr",
+    "title": "Öğrenci bilgilerini nasıl güncelleyebilirim?",
+    "text": "Soru / Question: Öğrenci bilgilerini nasıl güncelleyebilirim?\nCevap / Answer: Öğrenci bilgilerinizi, OBS'deki 'Formlar' bölümündeki 'Öğrenci Bilgileri Formu' sekmesinden güncelleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_21",
+    "language": "tr",
+    "title": "Tek ders başvurusu nasıl yapılır?",
+    "text": "Soru / Question: Tek ders başvurusu nasıl yapılır?\nCevap / Answer: Tek ders başvurusu, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Tek Ders Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_22",
+    "language": "tr",
+    "title": "Mezuniyet onayı hakkında bilgi nerede bulunur?",
+    "text": "Soru / Question: Mezuniyet onayı hakkında bilgi nerede bulunur?\nCevap / Answer: Mezuniyet onayına dair bilgiler, OBS'deki 'Genel İşlemler' bölümündeki 'Mezuniyet Onayı' sekmesinde yer alır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_23",
+    "language": "tr",
+    "title": "Ders geri bildirim anketine nasıl erişebilirim?",
+    "text": "Soru / Question: Ders geri bildirim anketine nasıl erişebilirim?\nCevap / Answer: Ders geri bildirim anketini, OBS'deki 'Formlar' bölümündeki 'Anket' sekmesinden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_24",
+    "language": "tr",
+    "title": "Bölümün ders programını nerede görebilirim?",
+    "text": "Soru / Question: Bölümün ders programını nerede görebilirim?\nCevap / Answer: Bölümün ders programına, OBS'deki 'Genel İşlemler' bölümündeki 'Bölüm Zaman Çizelgesi' sekmesinden ulaşabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_25",
+    "language": "tr",
+    "title": "Önceki dönemlerin notlarını nasıl alabilirim?",
+    "text": "Soru / Question: Önceki dönemlerin notlarını nasıl alabilirim?\nCevap / Answer: Önceki dönemlerin notlarına, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Notlar Listesi' sekmesinden ulaşabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_26",
+    "language": "tr",
+    "title": "Kaçırdığım dersin telafi sınavına nasıl başvuru yapabilirim?\"",
+    "text": "Soru / Question: Kaçırdığım dersin telafi sınavına nasıl başvuru yapabilirim?\"\nCevap / Answer: Telafi sınavına başvuru yapmak için, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Telafi Sınavı Başvurusu' sekmesinden başvurunuzu iletebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_27",
+    "language": "tr",
+    "title": "Sınav tarihlerimi nerede görebilirim?\"",
+    "text": "Soru / Question: Sınav tarihlerimi nerede görebilirim?\"\nCevap / Answer: Sınav tarihlerinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Sınav Tarihleri' sekmesinde bulabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_28",
+    "language": "tr",
+    "title": "Gelecek dönem için ders kaydımı nasıl tamamlarım?\"",
+    "text": "Soru / Question: Gelecek dönem için ders kaydımı nasıl tamamlarım?\"\nCevap / Answer: Gelecek dönem için ders kaydınızı, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Ders Kayıt' sekmesinden tamamlayabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_29",
+    "language": "tr",
+    "title": "İletişim bilgilerini nasıl güncellerim?\"",
+    "text": "Soru / Question: İletişim bilgilerini nasıl güncellerim?\"\nCevap / Answer: İletişim bilgilerinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Öğrenci Bilgileri' sekmesinden güncelleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_30",
+    "language": "tr",
+    "title": "Ek sınav başvurusunu nasıl yapabilirim?\"",
+    "text": "Soru / Question: Ek sınav başvurusunu nasıl yapabilirim?\"\nCevap / Answer: Ek sınav başvurusu yapmak için, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Ek Sınav Başvurusu' sekmesinden başvurunuzu iletebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_31",
+    "language": "tr",
+    "title": "Bu dönemde kayıtlı olduğum derslerin listesini nerede görebilirim?\"",
+    "text": "Soru / Question: Bu dönemde kayıtlı olduğum derslerin listesini nerede görebilirim?\"\nCevap / Answer: Kayıtlı olduğunuz derslerin listesini, OBS'deki 'Genel İşlemler' bölümündeki 'Kayıtlı Dersler' sekmesinden görüntüleyebilirsiniz.\"",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_32",
+    "language": "tr",
+    "title": "Sınav başvurularım onaylandı mı, nasıl kontrol edebilirim?\"",
+    "text": "Soru / Question: Sınav başvurularım onaylandı mı, nasıl kontrol edebilirim?\"\nCevap / Answer: Sınav başvurunuzun onay durumunu, OBS'deki 'Başvuru İşlemleri' sekmesinde kontrol edebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_33",
+    "language": "tr",
+    "title": "Üniversite tarafından yapılan duyurulara nasıl ulaşabilirim?\"",
+    "text": "Soru / Question: Üniversite tarafından yapılan duyurulara nasıl ulaşabilirim?\"\nCevap / Answer: Üniversite duyuruları, OBS'deki 'Genel İşlemler' bölümündeki 'Kamu Duyuruları' sekmesinde mevcuttur.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_34",
+    "language": "tr",
+    "title": "Gelecek yılın ders programını nerede bulabilirim?\"",
+    "text": "Soru / Question: Gelecek yılın ders programını nerede bulabilirim?\"\nCevap / Answer: Gelecek yılın ders programını, OBS'deki 'Genel İşlemler' bölümündeki 'Bölümde Sunulan Dersler' sekmesinden öğrenebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_35",
+    "language": "tr",
+    "title": "Anket veya değerlendirme formunu nasıl doldurabilirim?\"",
+    "text": "Soru / Question: Anket veya değerlendirme formunu nasıl doldurabilirim?\"\nCevap / Answer: Anket veya değerlendirme formuna, OBS'deki 'Formlar' bölümündeki 'Değerlendirme Formları' sekmesinden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_36",
+    "language": "tr",
+    "title": "Kayıtlı derslerimi nasıl görüntüleyebilirim?",
+    "text": "Soru / Question: Kayıtlı derslerimi nasıl görüntüleyebilirim?\nCevap / Answer: Kayıtlı derslerinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Kayıtlı Dersler' sekmesinden görüntüleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_37",
+    "language": "tr",
+    "title": "Geçici bir izin nasıl alabilirim?",
+    "text": "Soru / Question: Geçici bir izin nasıl alabilirim?\nCevap / Answer: Geçici izin almak için, OBS'deki 'Başvuru İşlemleri' bölümündeki 'İzin Başvurusu' sekmesinden başvurunuzu yapabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_38",
+    "language": "tr",
+    "title": "Acil iletişim bilgilerini öğrenci portalında güncelleyebilir miyim?",
+    "text": "Soru / Question: Acil iletişim bilgilerini öğrenci portalında güncelleyebilir miyim?\nCevap / Answer: Evet, acil iletişim bilgilerinizi OBS'deki 'Genel İşlemler' bölümündeki 'Öğrenci Bilgileri' sekmesinden güncelleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_39",
+    "language": "tr",
+    "title": "Tamamladığım derslerin listesini nerede bulabilirim?",
+    "text": "Soru / Question: Tamamladığım derslerin listesini nerede bulabilirim?\nCevap / Answer: Tamamladığınız derslerin listesini, OBS'deki 'Genel İşlemler' bölümündeki 'Ders Geçmişi' sekmesinden bulabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_40",
+    "language": "tr",
+    "title": "Kariyer hizmetlerine nasıl erişebilirim?",
+    "text": "Soru / Question: Kariyer hizmetlerine nasıl erişebilirim?\nCevap / Answer: Kariyer hizmetlerine, OBS'deki 'Kariyer Hizmetleri' bölümünden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_41",
+    "language": "tr",
+    "title": "Bir dersi nasıl bırakırım?",
+    "text": "Soru / Question: Bir dersi nasıl bırakırım?\nCevap / Answer: Ders bırakma işlemi, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Ders Bırakma' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_42",
+    "language": "tr",
+    "title": "Dersin değerlendirmelerine nasıl ulaşabilirim?",
+    "text": "Soru / Question: Dersin değerlendirmelerine nasıl ulaşabilirim?\nCevap / Answer: Ders değerlendirmelerine, OBS'deki 'Formlar' bölümündeki 'Ders Değerlendirme' sekmesinden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_43",
+    "language": "tr",
+    "title": "Üniversite portalı üzerinden staj başvurusu nasıl yapılır?",
+    "text": "Soru / Question: Üniversite portalı üzerinden staj başvurusu nasıl yapılır?\nCevap / Answer: Staj başvurusu, OBS'deki 'Genel İşlemler' bölümündeki 'Staj Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_44",
+    "language": "tr",
+    "title": "Bir dönem için transkript talebimi nasıl iletebilirim?",
+    "text": "Soru / Question: Bir dönem için transkript talebimi nasıl iletebilirim?\nCevap / Answer: Bir dönem için transkript talebinizi, OBS'deki 'Genel İşlemler' bölümündeki 'Transkript Talebi' sekmesinden iletebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_45",
+    "language": "tr",
+    "title": "Burs başvurusunu nasıl yapabilirim?",
+    "text": "Soru / Question: Burs başvurusunu nasıl yapabilirim?\nCevap / Answer: Burs başvurusu, OBS'deki 'Mali Yardım' bölümündeki 'Burs Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_46",
+    "language": "tr",
+    "title": "Üniversitenin gizlilik politikasını nerede bulabilirim?",
+    "text": "Soru / Question: Üniversitenin gizlilik politikasını nerede bulabilirim?\nCevap / Answer: Üniversitenin gizlilik politikası, OBS'deki 'Genel İşlemler' bölümündeki 'Genel Bilgiler' sekmesinde yer almaktadır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_47",
+    "language": "tr",
+    "title": "Sınav için özel yardım almak için nasıl başvurabilirim?",
+    "text": "Soru / Question: Sınav için özel yardım almak için nasıl başvurabilirim?\nCevap / Answer: Özel sınav yardımı başvurusu, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Özel Yardım Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_48",
+    "language": "tr",
+    "title": "Engellilik durumum için nasıl başvuruda bulunabilirim?",
+    "text": "Soru / Question: Engellilik durumum için nasıl başvuruda bulunabilirim?\nCevap / Answer: Engellilik başvurusu, OBS'deki 'Öğrenci Hizmetleri' bölümündeki 'Engelli Hizmetleri' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_49",
+    "language": "tr",
+    "title": "Üniversite çapında bir etkinlik veya seminer için nasıl kayıt olabilirim?",
+    "text": "Soru / Question: Üniversite çapında bir etkinlik veya seminer için nasıl kayıt olabilirim?\nCevap / Answer: Üniversite çapındaki etkinliklere kayıt olmak için, OBS'deki 'Kamu Duyuruları' bölümündeki 'Etkinlikler ve Seminerler' sekmesinden başvuru yapabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_50",
+    "language": "tr",
+    "title": "Burs başvurumun durumunu nasıl öğrenebilirim?",
+    "text": "Soru / Question: Burs başvurumun durumunu nasıl öğrenebilirim?\nCevap / Answer: Burs başvurunuzun durumunu, OBS'deki 'Mali Yardım' bölümündeki 'Başvuru Durumu' sekmesinden kontrol edebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_51",
+    "language": "tr",
+    "title": "Mezuniyet törenine nasıl başvuru yapabilirim?",
+    "text": "Soru / Question: Mezuniyet törenine nasıl başvuru yapabilirim?\nCevap / Answer: Mezuniyet törenine başvurmak için, OBS'deki 'Genel İşlemler' bölümündeki 'Mezuniyet Onayı' sekmesinden başvurunuzu iletebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_52",
+    "language": "tr",
+    "title": "Dersin müfredatını ve diğer materyalleri nasıl indirebilirim?",
+    "text": "Soru / Question: Dersin müfredatını ve diğer materyalleri nasıl indirebilirim?\nCevap / Answer: Dersin müfredatını ve materyallerini, OBS'deki 'Dersler' bölümündeki 'Ders Materyalleri' sekmesinden indirebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_53",
+    "language": "tr",
+    "title": "Öğrenci kredisi başvurusunu nasıl yapabilirim?",
+    "text": "Soru / Question: Öğrenci kredisi başvurusunu nasıl yapabilirim?\nCevap / Answer: Öğrenci kredisi başvurusu, OBS'deki 'Mali Yardım' bölümündeki 'Öğrenci Kredisi Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_54",
+    "language": "tr",
+    "title": "Akademik dürüstlükle ilgili üniversitenin politikalarını nerede bulabilirim?",
+    "text": "Soru / Question: Akademik dürüstlükle ilgili üniversitenin politikalarını nerede bulabilirim?\nCevap / Answer: Akademik dürüstlük politikaları, OBS'deki 'Genel İşlemler' bölümündeki 'Genel Bilgiler' sekmesinde yer almaktadır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_55",
+    "language": "tr",
+    "title": "Öğrenci el kitabını çevrimiçi olarak nasıl erişebilirim?",
+    "text": "Soru / Question: Öğrenci el kitabını çevrimiçi olarak nasıl erişebilirim?\nCevap / Answer: Öğrenci el kitabına, OBS'deki 'Öğrenci Kaynakları' bölümündeki 'Genel İşlemler' sekmesinden erişebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_56",
+    "language": "tr",
+    "title": "Bir dersten muafiyet başvurusu nasıl yapılır?",
+    "text": "Soru / Question: Bir dersten muafiyet başvurusu nasıl yapılır?\nCevap / Answer: Muafiyet başvurusu, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Ders Muafiyeti Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_57",
+    "language": "tr",
+    "title": "Çift anadal programına nasıl başvurabilirim?",
+    "text": "Soru / Question: Çift anadal programına nasıl başvurabilirim?\nCevap / Answer: Çift anadal programına başvurmak için, OBS'deki 'Genel İşlemler' bölümündeki 'Çift Anadal Başvurusu' sekmesinden başvuru yapabilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_58",
+    "language": "tr",
+    "title": "Tıbbi bir neden nedeniyle nasıl izin başvurusu yapabilirim?",
+    "text": "Soru / Question: Tıbbi bir neden nedeniyle nasıl izin başvurusu yapabilirim?\nCevap / Answer: Tıbbi izin başvurusu, OBS'deki 'Başvuru İşlemleri' bölümündeki 'Tıbbi İzin Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_59",
+    "language": "tr",
+    "title": "Yaz okulu dersine nasıl başvuru yapabilirim?",
+    "text": "Soru / Question: Yaz okulu dersine nasıl başvuru yapabilirim?\nCevap / Answer: Yaz okulu ders başvurusu, OBS'deki 'Dönem ve Ders İşlemleri' bölümündeki 'Yaz Okulu Başvurusu' sekmesinden yapılabilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_60",
+    "language": "tr",
+    "title": "Yaklaşan sınav ve ödevlerin son tarihlerini nasıl öğrenebilirim?",
+    "text": "Soru / Question: Yaklaşan sınav ve ödevlerin son tarihlerini nasıl öğrenebilirim?\nCevap / Answer: Yaklaşan sınav ve ödevlerin son tarihleri, OBS'deki 'Genel İşlemler' bölümündeki 'Ders Zaman Çizelgesi' sekmesinden öğrenilebilir.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_61",
+    "language": "tr",
+    "title": "Derslerim için duyuruları nerede görebilirim?",
+    "text": "Soru / Question: Derslerim için duyuruları nerede görebilirim?\nCevap / Answer: Derslerinizle ilgili duyurular, OBS'deki 'Kamu Duyuruları' bölümünde yer almaktadır.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_62",
+    "language": "tr",
+    "title": "Çevrimiçi derslerimi nerede izleyebilirim?",
+    "text": "Soru / Question: Çevrimiçi derslerimi nerede izleyebilirim?\nCevap / Answer: Çevrimiçi derslerinizi, Üsküdar Üniversitesi'ne ait LMS (Öğrenim Yönetim Sistemi) sitesinde izleyebilirsiniz.",
+    "source": "obs"
+  },
+  {
+    "id": "qa_university_63",
+    "language": "tr",
+    "title": "Üniversiteye ait çevrimiçi derslere nasıl kaydolabilirim?",
+    "text": "Soru / Question: Üniversiteye ait çevrimiçi derslere nasıl kaydolabilirim?\nCevap / Answer: Çevrimiçi ders kaydını, OBS'deki 'Çevrimiçi Dersler' bölümünden gerçekleştirebilirsiniz.",
+    "source": "obs"
+  }
+]

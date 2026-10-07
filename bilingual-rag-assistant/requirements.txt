@@ -1,0 +1,23 @@
+# Core
+transformers>=4.41.0
+torch>=2.1.0
+sentence-transformers>=2.6.0
+faiss-cpu>=1.7.4
+numpy>=1.24.0
+pandas>=2.0.0
+
+# Language detection
+langdetect>=1.0.9
+
+# Backend / frontend
+fastapi>=0.110.0
+uvicorn[standard]>=0.27.0
+streamlit>=1.32.0
+requests>=2.31.0
+pydantic>=2.5.0
+
+# Tests
+pytest>=8.0.0
+
+# Optional: notebooks
+jupyter>=1.0.0
